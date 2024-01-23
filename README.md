@@ -98,7 +98,7 @@ npm run nodemon
 npm install concurrently --save-dev
 ```
 
-- 👇
+- 👇 yah command se nodemon aur watch Mod Ek saat Ran kar sakte hain
 
 ```sh
 # 👇 is command ka Script add kiya Hua Hai packages.json fil Mein
