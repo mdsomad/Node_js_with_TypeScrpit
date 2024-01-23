@@ -69,7 +69,7 @@ npm run build
 
 ```
 
-- 👇 Yah command se production Mod Mein server ran kar sakte hain
+- 👇 Yah command se production Mod Mein server Run kar sakte hain
 
 ```sh
 # 👇 is command ka Script add kiya Hua Hai packages.json fil Mein
@@ -83,7 +83,7 @@ npm start
 npm run watch
 ```
 
-- 👇  yah command se nodemon ko ran kar sakte hain
+- 👇  yah command se nodemon ko run kar sakte hain
 
 ```sh
 # 👇 is command ka Script add kiya Hua Hai packages.json fil Mein
@@ -98,7 +98,7 @@ npm run nodemon
 npm install concurrently --save-dev
 ```
 
-- 👇 yah command se nodemon aur watch Mod Ek saat Ran kar sakte hain
+- 👇 yah command se nodemon aur watch Mod Ek saat Run kar sakte hain
 
 ```sh
 # 👇 is command ka Script add kiya Hua Hai packages.json fil Mein
