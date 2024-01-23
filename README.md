@@ -83,7 +83,7 @@ npm start
 npm run watch
 ```
 
-- 👇
+- 👇  yah command se nodemon ko ran kar sakte hain
 
 ```sh
 # 👇 is command ka Script add kiya Hua Hai packages.json fil Mein
